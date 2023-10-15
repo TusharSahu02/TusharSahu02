@@ -24,6 +24,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/tusharsahu-rgh/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="tusharsahu-rgh" height="40" width="40" /></a>
+<a href="https://twitter.com/BuddyHidden" target="blank"><img align="center" src="https://png.pngtree.com/png-vector/20221018/ourmid/pngtree-twitter-social-media-round-icon-png-image_6315985.png" alt="tusharsahu-rgh" height="40" width="40" /></a>
 </p>
 
 
