@@ -11,7 +11,7 @@
 
 
 
-- 🔭 I’m currently working on **Spotify-clone**
+- 🔭 I’m currently working on **Notion-clone**
 
 - 🌱 I’m currently learning **React Native || Next.js**
 
