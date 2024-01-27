@@ -1,10 +1,10 @@
 
 
 <h1 align="center">Hi 👋, I'm Tushar Sahu</h1>
-<h3 align="center">A passionate Software developer from India</h3>
+<h3 align="center">A passionate developer based in India, and i'm passionate about creating web/apps</h3>
 
 
-<img align="right" alt="coding" width ="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
+<!-- <img  alt="coding" align="center"  src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif"> -->
 
 ---
 
@@ -17,7 +17,7 @@
 - 👨‍💻 All of my projects are available at [https://portfolio-tusharsahu02.vercel.app/](https://portfolio-tusharsahu02.vercel.app/)
 - 📫 How to reach me **tusharsahu.dev@gmail.com**
 
-<h3 >Connect with me:</h3>
+<h3>Connect with me:</h3>
 
 <a href="https://linkedin.com/in/tusharsahu-rgh/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="tusharsahu-rgh" height="40" width="40"/></a>
 <a href="https://twitter.com/BuddyHidden" target="blank"><img align="center" src="https://png.pngtree.com/png-vector/20221018/ourmid/pngtree-twitter-social-media-round-icon-png-image_6315985.png" alt="tusharsahu-rgh" height="40" width="40" /></a>
@@ -32,7 +32,24 @@
 
 <img align="left" src="https://w7.pngwing.com/pngs/87/586/png-transparent-next-js-hd-logo.png" alt="tusharsahu-rgh" height="40" width="40" />
 
+<br>
+<br>
 
+# Toolbox:
+
+<b>Frontend Development: </b> `React` `Next.js` `Typescript` `Javascript` `Tailwind CSS` `Material-UI` `ShadcnUI` `GSAP` 
+
+<b>Backend Development: </b> `Next.js` `Node.js` `Express.js` 
+
+<b>Database: </b> `Firebase` `Supabase` `appwrite` `convex` `MongoDB` 
+
+<b>Version Control: </b> `Git` `Github` 
+
+<b>Auth:</b> `Clerk` `Nextjs` `OAuth` `firebase`
+
+<b>Testing: </b> `postman`
+
+<b>Other's: </b> `Redux` `Zustan` `Redis`
 
 
 
