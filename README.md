@@ -14,7 +14,7 @@
 - 🔭 I’m currently building **broCode**
 - 🌱 I’m currently learning **React Native || Next.js**
 - 👯 I’m looking to collaborate on **React.js/Next.js Projects**
-- 👨‍💻 All of my projects are available at [https://portfolio-tusharsahu02.vercel.app/](https://portfolio-tusharsahu02.vercel.app/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://tusharsahu.vercel.app/)
 - 📫 How to reach me **tusharsahu.dev@gmail.com**
 
 <h3>Connect with me:</h3>
