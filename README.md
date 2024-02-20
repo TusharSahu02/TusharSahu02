@@ -30,7 +30,14 @@
 
 <img align="left" src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-svg-vector.svg" alt="tusharsahu-rgh" height="40" width="40" />
 
-<img align="left" src="https://w7.pngwing.com/pngs/87/586/png-transparent-next-js-hd-logo.png" alt="tusharsahu-rgh" height="40" width="40" />
+<img align="left" src="https://www.datocms-assets.com/75941/1657707878-nextjs_logo.png" alt="tusharsahu-rgh" height="40" width="40" />
+
+<img align="left" src="https://static-00.iconduck.com/assets.00/node-js-icon-454x512-nztofx17.png" alt="tusharsahu-rgh" height="40" width="40" />
+
+<img align="left" src="https://seeklogo.com/images/M/mongodb-logo-655F7D542D-seeklogo.com.png" alt="tusharsahu-rgh" height="40" width="25" />
+
+<img align="left" src="https://miro.medium.com/v2/resize:fit:680/1*7G9vb_q5MA8_C_8HtwMfqw.png" alt="tusharsahu-rgh" height="40"  />
+
 
 <br>
 <br>
