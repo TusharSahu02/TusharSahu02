@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Tushar Sahu</h1>
 <h3 align="center">A passionate developer based in India, and i'm passionate about creating web/apps</h3>
 
-<!-- <img  alt="coding" align="center"   src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif"> -->
-
 ---
 
-- 🔭 I’m currently building **Routine.dev**
+- 🔭 I’m currently building **Careerliveli**
 - 🌱 I’m currently learning **React Native | fastAPI**
 - 👯 I’m looking to collaborate on **React.js/Next.js Projects**
 - 👨‍💻 All of my projects are available at [My Portfolio](https://tusharsahu.vercel.app/)
@@ -29,16 +27,18 @@
 
 # Toolbox:
 
-<b>Frontend Development: </b> `React` `Next.js` `Typescript` `Javascript` `Tailwind CSS` `Material-UI` `ShadcnUI` `GSAP` `WebRTC` `python`
+<b>Languages: </b> `c` `c++` `javascipt` `typescript` `python`
 
-<b>Backend Development: </b> `Next.js` `Node.js` `Express.js` `socket.IO` `fastAPI`
+<b>Frontend Development: </b> `React` `Next.js` `Tailwind CSS` `Material-UI` `ShadcnUI` `GSAP` `WebRTC` `Sass`
 
-<b>Database: </b> `Firebase` `Supabase` `appwrite` `convex` `MongoDB` `MySQL`
+<b>Backend Development: </b> `Next.js` `Node.js` `Express.js` `fastAPI` `socket.IO`
+
+<b>Database: </b> `Firebase` `Supabase` `appwrite` `convex` `MongoDB` `MySQL` `PostgreSQL` 
 
 <b>Version Control: </b> `Git` `Github`
 
 <b>Auth:</b> `Clerk` `Nextjs` `OAuth` `firebase`
 
-<b>Testing: </b> `postman`
+<b>Testing: </b> `postman` 
 
-<b>Other's: </b> `Redux` `Recoil` `Zustan` `Docker` `Prisma` `Redis` 
+<b>Other's: </b> `Redux` `Recoil` `Zustan` `Docker` `Redis` 
