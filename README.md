@@ -3,7 +3,7 @@
 
 ---
 
-- 🔭 I’m currently building **Careerliveli**
+- 🔭 I’m currently building **auraD & Careerliveli**
 - 🌱 I’m currently learning **React Native | fastAPI**
 - 👯 I’m looking to collaborate on **React.js/Next.js Projects**
 - 👨‍💻 All of my projects are available at [My Portfolio](https://tusharsahu.vercel.app/)
