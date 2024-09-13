@@ -35,7 +35,7 @@
 
 <b>Database: </b> `Firebase` `Supabase` `appwrite` `convex` `MongoDB` `MySQL` `PostgreSQL` 
 
-<b>Version Control: </b> `Git` `Github`
+<b>Version Control: </b> `Git` `Github` `Bitbucket`
 
 <b>Auth:</b> `Clerk` `Nextjs` `OAuth` `firebase`
 
