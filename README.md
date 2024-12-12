@@ -3,7 +3,7 @@
 
 ---
 - 👨‍💻 I'm a freelancer too worked with 10+ clients 
-- 🚀 I’m currently building **[auraD](https://aurad.vercel.app) & Careerliveli**
+- 🚀 I’m currently building **[auraD](aurad.pro) & Nonexpert**
 - 📚 I’m currently learning **React Native | Spring Boot**
 - 👯 I’m looking to collaborate on **React.js/Next.js Projects**
 - ✨ All of my projects are available at [My Portfolio](https://tusharsahu.vercel.app/)
