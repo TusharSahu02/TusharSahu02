@@ -45,8 +45,8 @@
 
 
 <h3>Recent Freelance Clients Project</h3>
-<div style="display:flex;">
-  <a href="https://royalbankpacific.com/" target="blank"><img align="center" src="https://tusharsahu.vercel.app/videos/rbp.gif" alt="freelance client project 1" style="height: 140px; width: auto;"/></a>
-  <a href="https://vishvakarmamajdurunion.in/" style="margin-right:10px; target="blank"><img align="center" src="https://tusharsahu.vercel.app/img/vish.png" alt="freelance client project 1" style="height: 140px; width: auto;"/></a>
-  <a href="https://mascons.in/"  target="blank"><img align="center" src="https://res.cloudinary.com/dnbsn9kwr/image/upload/v1729177880/Screenshot_from_2024-10-17_20-39-47_g2i8c1.png" alt="freelance client project 1" style="height: 140px; width: auto;"/></a>
-</div>
+
+- https://karrardesign-projects.com/
+- https://royalbankpacific.com/
+- https://mascons.in/
+- https://www.opjhrcrgh.in/
